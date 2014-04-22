@@ -121,6 +121,7 @@ function dataCompile(series, benchmark, rfr, annInterval) {
 
     var sample = series.slice(),
         output={};
+    benchmark=benchmark||series;
     rfr=rfr||0.4;
     annInterval=annInterval||12; // interval to annualise data, 12 = 12 data points = 1 year of data
 
