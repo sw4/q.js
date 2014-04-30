@@ -1,6 +1,8 @@
 q.js
 ====
 
+**Licensed under [cc by-sa 3.0](http://creativecommons.org/licenses/by-sa/3.0/) with attribution required**
+
 *Work In Progress - Unstable*
 
 Javascript Library for Quantitative Finance Calculations
